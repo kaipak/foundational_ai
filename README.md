@@ -1,10 +1,15 @@
 # foundational_ai
-A re-implementation and study of seminal deep learning architectures and breakthroughs. This repository is loosely organized into topics of computer vision (CV), natural language processing (NLP), and other emerging areas as identified.
+A re-implementation and study of seminal deep learning architectures and breakthroughs. This repository is loosely 
+organized into topics of computer vision (CV), natural language processing (NLP), and other emerging areas as identified.
 
-Each section is dedicated to a landmark paper in AI. The repository includes PyTorch code representing the model, along with scripts for running the models with minimal setup. Notes and some results are also provided.
+Each section is dedicated to a landmark paper in AI. The repository includes PyTorch code representing the model, along 
+with scripts for running the models with minimal setup. Notes and some results are also provided.
 
 # Requirements
-All code in this repository is written in Python 3.12 and PyTorch 2.x. Conda is used to manage Python environments, and an `environment.yml` file is provided for each section. This is prototype-level code, primarily tested on Ubuntu Server Linux distributions (22.04 as of April 2024). The code may work on similar systems but is not guaranteed to be production quality.
+All code in this repository is written in Python 3.12 and PyTorch 2.x. Conda is used to manage Python environments, 
+and an `environment.yml` file is provided for each section. This is prototype-level code, primarily tested on Ubuntu 
+Server Linux distributions (22.04 as of April 2024). The code may work on similar systems but is not guaranteed to 
+be production quality.
 
 # AI Topics
 The papers are organized into sections covering major areas of research in AI.
